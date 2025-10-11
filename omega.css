@@ -1,0 +1,36 @@
+﻿body {
+    background:#5A5A5A;
+    color:#39FF14;
+      
+}
+h1 {
+    text-align:center;
+}
+div {
+    background:#5A5A5A;
+    width:100%;
+    display:block;
+}
+img {
+    width:160px;
+    height:auto;
+    margin:auto;
+    display:block;
+    border-radius:10px;
+    padding:2PX;
+    border:3PX, solid #FFFF00;
+}
+
+
+.chido1 {
+     width:50%;
+    background:#000;
+    height:100px; 
+    color:#39FF14;
+    margin:30px 50px;
+    padding:30px 40px;
+    border:10px double#39FF14;
+    display:inline-block;
+    text-align:center;
+    
+}

@@ -1,0 +1,20 @@
+﻿body {
+    background:#0094ff;
+    color:#fff;
+}
+h1 {
+    text-align:center;
+}
+div {
+    background:#0094ff;
+    width:100%;
+    display:block;
+}
+img {
+    height:auto;
+    margin:auto;
+    display:block;
+    border-radius:10px;
+    padding:2px;
+    border:3px, solid #fff;
+}
